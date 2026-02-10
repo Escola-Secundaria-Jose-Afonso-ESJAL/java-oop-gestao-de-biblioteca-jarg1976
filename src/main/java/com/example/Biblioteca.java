@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Biblioteca {
     private static final int MAX_LIVROS = 100; // Variável de classe
+    
     private ArrayList<Livro> livros; // Variável de instância
 
     public Biblioteca() {
